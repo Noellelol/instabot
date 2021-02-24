@@ -9,7 +9,7 @@ bot.login(username="your insta username",password="your insta password")
 
 # alright so We logged in with our Instagram account! But now we have to upload an image on Instagram 
 
-bot.upload_photo("your image.jpg",captions="Instagram Bot tutorial")
+bot.upload_photo("your image.jpg",caption="Instagram Bot tutorial")
 
 # and that's it!! Yay! 
 
